@@ -1,3 +1,4 @@
+##  ![LakoMoor Dev](doc/suharcoin.png) 
 SUHARCOIN integration/staging tree
 ================================
 
