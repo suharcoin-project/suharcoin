@@ -5,6 +5,7 @@ SUHARCOIN integration/staging tree
 http://www.suharcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2021-2022 SUHARCOIN Developers
 
 What is SUHARCOIN?
