@@ -1,0 +1,9 @@
+Building SUHARCOIN
+
+See doc/readme-qt.rst for instructions on building SUHARCOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SUHARCOIN.
+
+See doc/build-*.txt for instructions on building suharcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SUHARCOIN.

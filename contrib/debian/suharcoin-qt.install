@@ -1,0 +1,6 @@
+suharcoin-qt usr/bin
+share/pixmaps/suharcoin32.xpm usr/share/pixmaps
+share/pixmaps/suharcoin16.xpm usr/share/pixmaps
+share/pixmaps/suharcoin128.png usr/share/pixmaps
+debian/suharcoin-qt.desktop usr/share/applications
+debian/suharcoin-qt.protocol usr/share/kde4/services/
