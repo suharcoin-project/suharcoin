@@ -2,8 +2,6 @@
 SUHARCOIN integration/staging tree
 ================================
 
-http://www.suharcoin.org
-
 Copyright (c) 2009-2014 Bitcoin Developers
 
 Copyright (c) 2021-2022 SUHARCOIN Developers
@@ -21,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the SUHARCOIN client sofware, see http://www.suharcoin.org.
+the SUHARCOIN client sofware.
 
 License
 -------
@@ -47,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/suharcoin-project/suharcoin/tags) are created
+completely stable. [Tags](https://github.com/suharcoin/suharcoin/tags) are created
 regularly to indicate new official, stable release versions of SUHARCOIN.
 
 Testing
