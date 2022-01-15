@@ -5,14 +5,14 @@ SUHARCOIN integration/staging tree
 http://www.suharcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 SUHARCOIN Developers
+Copyright (c) 2021-2022 SUHARCOIN Developers
 
 What is SUHARCOIN?
 ----------------
 
 SUHARCOIN is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
+ - 1 minute block targets
+ - subsidy halves in 450k blocks (~2 years)
  - ~84 million total coins
 
 The rest is the same as Bitcoin.
