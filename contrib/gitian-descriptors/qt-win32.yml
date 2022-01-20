@@ -1,7 +1,7 @@
 ---
 name: "qt"
 suites:
-- "precise"
+- "xenial"
 architectures:
 - "amd64"
 packages: 
