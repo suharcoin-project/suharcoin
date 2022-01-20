@@ -1,7 +1,7 @@
 ---
 name: "boost"
 suites:
-- "precise"
+- "xenial"
 architectures:
 - "amd64"
 packages:
