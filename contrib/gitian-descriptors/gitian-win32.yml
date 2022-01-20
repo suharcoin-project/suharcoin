@@ -1,7 +1,7 @@
 ---
 name: "suharcoin"
 suites:
-- "precise"
+- "xenial"
 architectures:
 - "amd64"
 packages:
