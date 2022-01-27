@@ -1175,6 +1175,7 @@ void MapPort(bool)
 static const char *strMainNetDNSSeed[][2] = {
     {"ec2-3-138-194-7.us-east-2.compute.amazonaws.com","ec2-3-138-194-7.us-east-2.compute.amazonaws.com"},
     {"ec2-18-193-6-57.eu-central-1.compute.amazonaws.com","ec2-18-193-6-57.eu-central-1.compute.amazonaws.com"},
+    {"ec2-15-236-169-75.eu-west-3.compute.amazonaws.com","15.236.169.75"},
     {NULL, NULL},
 };
 
